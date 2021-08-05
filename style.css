@@ -1,0 +1,21 @@
+body
+{
+    background-color: teal;
+}
+/* título do site */
+h1 
+{
+    color: red;
+    
+}
+/* subtítulo do site */
+h2
+{
+    color: blue;
+}
+/* imagem do site */
+img 
+{
+    width: 700px;
+}
+
